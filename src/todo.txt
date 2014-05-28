@@ -1,0 +1,9 @@
+-add multiple creep-types
+-fix rotation (seperate images?)
+-add slow-tower
+-add straightshooter(laser?)
+-fix reset-wave (remove extra creeps added)
+-make burning-indication
+-add upgrade-capability
+-add sell capability
+
